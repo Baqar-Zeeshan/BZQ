@@ -9,17 +9,8 @@ function App() {
         {/* <p>
           Edit <code>src/App.js</code> and save to reload.
         </p> */}
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Baqar Zeeshan Qamar
-        </a>
-        <a className="App-link" target="_blank" rel="noopener noreferrer">
-          201370145
-        </a>
+        <h1>Baqar Zeeshan Qamar</h1>
+        <h2>201370145</h2>
       </header>
     </div>
   );
